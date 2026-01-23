@@ -75,7 +75,7 @@
 **B.E Computer Science and Engineering**  
 St. Joseph's College of Engineering, Chennai  
 Expected Graduation: 2027  
-CGPA: **8.27**
+CGPA: **8.27** 
 
 ---
 
