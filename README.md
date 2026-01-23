@@ -46,8 +46,9 @@
   <img src="https://img.icons8.com/color/48/figma--v1.png"/>
   <img src="https://img.icons8.com/color/48/canva.png"/>
   <img src="https://img.icons8.com/doodle/48/adobe-photoshop.png"/>
-  <img src="https://img.icons8.com/color/48/git.png"/>
   <img src="https://img.icons8.com/color/48/github.png"/>
+   <img src="https://img.icons8.com/color/48/video-editing.png"/>   
+  <img src="https://img.icons8.com/fluency/48/chatgpt.png"/>      
 </p>
 
 ---
