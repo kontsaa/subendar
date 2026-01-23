@@ -84,8 +84,9 @@ CGPA: **8.27**
 
 ---
 
-## 📈 LeetCode Activity Graph
-![LeetCode Activity Graph](https://leetcode-activity-graph.vercel.app/graph?username=gsubendar22&theme=dark)
+## 📊 SkillRack Programming Summary
+<img src="skillrack-summary.png" alt="SkillRack Programming Summary" width="100%"/>
+
 
 ---
 
