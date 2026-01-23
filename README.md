@@ -85,7 +85,8 @@ CGPA: **8.27**
 ---
 
 ## 📊 SkillRack Programming Summary
-<img src="skillrack-summary.png" alt="SkillRack Programming Summary" width="100%"/>
+[![SkillRack ](https://img.shields.io/badge/View-SkillRack%20Resume-4BA94F?style=for-the-badge&logo=skillshare&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=449072&key=55b8a231b135edfba382207dabe54644a9ff8755)
+
 
 
 ---
