@@ -2,13 +2,13 @@
 
 🎓 Computer Science Engineering Student | Aspiring Software Developer & UI/UX Enthusiast  
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="360" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 Currently building projects in Full Stack Development  
 - 🌱 Learning Data Structures, Algorithms, and Software Development  
 - 🎨 UI/UX Designer Intern @ Retech Solutions  
 - 🎓 Pre-final year CSE student (CGPA: 8.27)  
-- ⚡ Fun fact: I love designing clean and user-friendly interfaces  
+- ⚡ Fun fact: I enjoy designing clean and user-friendly interfaces  
 
 > 💡 Focused on learning, building, and growing through consistent practice and real-world projects.
 
@@ -18,8 +18,8 @@
 - 🚀 Pre-final year Computer Science Engineering student  
 - 🎨 UI/UX Designer with internship experience  
 - 💻 Strong interest in software development and problem solving  
-- 🧠 Active coder on LeetCode & SkillRack  
-- 🤝 Collaborative team player with real-world project exposure  
+- 🤝 Team player with real-world project exposure  
+- 📈 Continuous learner improving through projects and practice  
 
 ---
 
@@ -33,26 +33,22 @@
 ---
 
 ## 🧑‍💻 I Code In
-<img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
-
----
-
-## 🧠 Platforms I Code On
-<img height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/leetcode.png"/> 
-<img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/skillrack.svg"/>
-
-**LeetCode** | **SkillRack**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+</p>
 
 ---
 
 ## 🛠 Tools I Use
-<img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/figma--v1.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/canva.png"/> 
-<img height="50" src="https://img.icons8.com/doodle/48/adobe-photoshop.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/git.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/github.png"/>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/figma--v1.png"/>
+  <img src="https://img.icons8.com/color/48/canva.png"/>
+  <img src="https://img.icons8.com/doodle/48/adobe-photoshop.png"/>
+  <img src="https://img.icons8.com/color/48/git.png"/>
+  <img src="https://img.icons8.com/color/48/github.png"/>
+</p>
 
 ---
 
@@ -83,14 +79,14 @@ CGPA: **8.27**
 
 ---
 
-## 📊 GitHub Stats
-![Subendar's GitHub stats](https://github-readme-stats.vercel.app/api?username=subendar-g&theme=dark&show_icons=true)
-
----
-
 ## 🔥 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/gsubendar22?theme=dark)](https://leetcode.com/u/gsubendar22/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/gsubendar22?theme=dark&font=Baloo)](https://leetcode.com/u/gsubendar22/)
 
 ---
 
-⭐ *Learning every day and growing one commit at a time.*
+## 📈 LeetCode Activity Graph
+![LeetCode Activity Graph](https://leetcode-activity-graph.vercel.app/graph?username=gsubendar22&theme=dark)
+
+---
+
+⭐ *Building skills one commit at a time.*
